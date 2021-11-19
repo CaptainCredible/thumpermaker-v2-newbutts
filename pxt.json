@@ -1,5 +1,6 @@
 {
     "name": "Thumpermaker v2 newbutts",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
