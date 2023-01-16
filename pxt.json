@@ -1,5 +1,5 @@
 {
-    "name": "Thumpermaker v2 newbutts",
+    "name": "Thumpermaker 2023",
     "version": "0.0.1",
     "description": "",
     "dependencies": {
@@ -17,7 +17,7 @@
         "test.ts"
     ],
     "targetVersions": {
-        "target": "4.0.18",
+        "target": "5.0.12",
         "targetId": "microbit"
     },
     "supportedTargets": [
